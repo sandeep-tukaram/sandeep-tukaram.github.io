@@ -1,2 +1,2 @@
-# sandeep-tukaram.github.io
+# welcome
 [algods](https://sandeep-tukaram.github.io/algods)
