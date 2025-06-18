@@ -7,5 +7,5 @@ Welcome to my GitHub Pages repository! This is a collection of programming resou
 ### Problem Solving
 - [Data Structures & Algorithms](https://sandeep-tukaram.github.io/algods) - Collection of problem solutions and implementations
 
-### Programming
+### Technology
 - [Java Programming](https://sandeep-tukaram.github.io/java) - Core concepts, best practices, and examples
